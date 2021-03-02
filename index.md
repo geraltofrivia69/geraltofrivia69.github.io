@@ -4,7 +4,7 @@
 
 ### Python Projects 
 
-[Stock Ticker](/sample_page)
+[Stock Ticker](https://github.com/geraltofrivia69/Python-Repository/blob/master/StockTicker2020v5.py)
 <img src="images/StockTicker2020.png"/>
 
 ---
