@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Python Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Stock Ticker](/sample_page)
+<img src="images/StockTicker2020.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
