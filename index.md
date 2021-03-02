@@ -7,15 +7,24 @@
 [Stock Ticker](https://github.com/geraltofrivia69/Python-Repository/blob/master/StockTicker2020v5.py)
 <img src="images/StockTicker2020.png"/>
 
+
+
+### Projects
+
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Google Search Recreation CS50 Web EDX Project 0](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[E-Commerce Site CS50 EDX Project 2](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Super Smash Brothers Ranking Site CS50 EDX Final Project](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
 
 ### Category Name 2
 
